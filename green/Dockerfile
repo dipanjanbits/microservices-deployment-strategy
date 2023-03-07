@@ -1,2 +1,2 @@
 FROM nginx
-COPY index.html /usr/share/nginx/html/green
+COPY green /usr/share/nginx/html/green
